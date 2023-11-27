@@ -1,0 +1,124 @@
+
+.she{
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    align-items: center;
+    padding: 1;
+    /* margin-top: 0cm; */
+    margin-right: -3cm;
+}
+.off{
+    margin: 0px -70px;
+}
+.mar{
+    width: 100%;
+    margin-left: 1.5cm;
+}
+.off img{
+    width: 70%;
+} 
+.bur:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.piz:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.pas:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.chi:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.pan:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.fre:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.no:hover{
+       background-color: aliceblue;
+       transform: scale(1.2);
+    }
+.items{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.items1{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.items2{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.items3{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.items4{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.items5{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    padding: 1;
+    margin-right: -3cm;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+.bur1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }
+.piz1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }
+.pas1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }
+.chi1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }
+.pan1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }
+.pot1:hover{
+    background-color: aliceblue;
+    transform: scale(1.2); 
+ }

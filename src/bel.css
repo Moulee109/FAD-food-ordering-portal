@@ -1,0 +1,52 @@
+.b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    position:relative;
+    margin-left:3cm;
+    top:1.3cm;
+    gap:0.5rem;
+}
+.b1>:nth-child(1){
+    font-size: 1.3rem;
+    color:salmon;
+}
+.b1>:nth-child(2){
+    font-size: 2rem;
+    color:tomato;
+}
+.b1>:nth-child(3){
+    font-size: 1.3rem;
+    color:salmon;
+}
+.b2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    gap:3rem;
+}
+.b3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin-left:2cm;
+    margin-top:2cm;
+}
+.b4:hover{
+   transform: scale(1.2);
+   cursor: pointer;
+}
+.b3>:nth-child(2){
+     font-weight: bold;
+}
+.b3>:nth-child(3){
+    color: gray;
+    word-wrap: break-word;
+    width: 20rem;
+    text-align: center;
+}
